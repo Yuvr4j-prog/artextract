@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data (too large for git)
+*.zip
+WikiArt Dataset/
+wikiart/
+nga_images/
+checkpoints/
+*.pth
+*.pt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (generated)
+evaluation_results/
+similarity_results/
+*.npz
