@@ -18,6 +18,7 @@ This repository contains the solutions for the ArtExtract evaluation tasks for G
 - **Heads**: 3 independent MLP classification heads (style, artist, genre)
 
 ![Attention Heatmap](ArtGAN/artgan.gif)
+
 *GradCAM-style attention heatmaps showing which regions of paintings the model focuses on during classification.*
 
 ### Results
